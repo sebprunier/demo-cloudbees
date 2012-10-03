@@ -1,4 +1,4 @@
 demo-cloudbees
 ==============
 
-simple demo
+simple demo application, it will be deployed on cloudbees.
